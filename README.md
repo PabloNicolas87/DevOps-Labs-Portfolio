@@ -93,12 +93,13 @@ Each lab builds upon the previous one, progressively adding new AWS services, au
 ---
 
 ## 🧭 Evolution Roadmap
+
 ```mermaid
 graph TD
-A[Lab 1: CI/CD + EC2 + Docker] --> B[Lab 2: Orchestration (ECS Fargate)]
-B --> C[Lab 3: Serverless (Lambda + API Gateway + S3)]
-C --> D[Lab 4: Data Persistence (RDS / DynamoDB)]
-D --> E[Lab 5: Advanced CI/CD + Monitoring]
+A["Lab 1: CI/CD + EC2 + Docker"] --> B["Lab 2: ECS Fargate"]
+B --> C["Lab 3: Lambda + API Gateway + S3"]
+C --> D["Lab 4: RDS / DynamoDB"]
+D --> E["Lab 5: Advanced CI/CD + Monitoring"]
 ```
 
 ---
@@ -134,10 +135,10 @@ us-east-2 (Ohio)
 
 <p align="center">
   <b>📫 Connect with me:</b><br/>
-  <a href="mailto:gironepablo@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/pablogirone/">💼 LinkedIn</a> • 
   <a href="https://github.com/PabloNicolas87">🌐 GitHub</a>
 </p>
 
 ---
+
 <p align="center">© 2025 Pablo Nicolás Girone — DevOps Learning Series</p>
